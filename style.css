@@ -1,0 +1,48 @@
+* {
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+}
+a {
+    color:lawngreen;
+    text-decoration: none;
+}
+.container {
+    width: 80px;
+    margin:0 auto;
+    padding: 10px 0;
+    background-color:honeydew ;
+}
+.container:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.medsos ul li{
+    display: inline-block;
+}
+header h1 {
+    
+    float: left;
+    padding: 15px 0;
+    color:black;
+}
+header ul{
+    float: right;
+    align: right;
+} 
+header ul li {
+    display: inline;
+    float:right;
+}
+header ul li a {
+    padding:25px 20px ;
+    display:inline-block;
+    float:right;
+}
+header ul li a:hover {
+    background-color:blue;
+    color:cornsilk;
+}
+.div class
+}
